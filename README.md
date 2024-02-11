@@ -1,5 +1,6 @@
 # datazoomcamp_homework3
 #upload the files in gcs bucket with the command line:
+
 gsutil cp green_tripdata_2022-01.parquet gs://mage-zoomcamp-arnaudn/
 
 gsutil cp green_tripdata_2022-02.parquet gs://mage-zoomcamp-arnaudn/
@@ -7,7 +8,9 @@ gsutil cp green_tripdata_2022-02.parquet gs://mage-zoomcamp-arnaudn/
 gsutil cp green_tripdata_2022-03.parquet gs://mage-zoomcamp-arnaudn/
 
 gsutil cp green_tripdata_2022-04.parquet gs://mage-zoomcamp-arnaudn/
+
 ....
+
 gsutil cp green_tripdata_2022-12.parquet gs://mage-zoomcamp-arnaudn/
 
 # now this is all the sql queries in bigquery
